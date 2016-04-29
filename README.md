@@ -8,7 +8,7 @@ Communicating with Mavros
   roslaunch mavros px4.launch  fcu_url:="/dev/ttyUSB0:921600" //replace ttyUSB0 and 921600 with required baudrate
   
 Once launched and connected
-  rosrun <cmd> <parameters>
+  rosrun [cmd] [parameters]
 
 Commands
   Mavcmd: sends command to vehicle i.e. mavcmd 1 168 1 1000 0 0 0 0 0 0 will activate the actuator
