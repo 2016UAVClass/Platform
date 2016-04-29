@@ -1,6 +1,9 @@
 # Platform
 Navigation, Flight, and Ground Control
 
+Requirements: https://docs.google.com/spreadsheets/d/1ufqJS3WbIeS82vyE_qV7eeFVhtlOHTh4jLtMdbVlFs0/edit?usp=sharing
+
+Attendance: https://docs.google.com/spreadsheets/d/1cdjpV5HBFHA-4_GxPcs88pLSha8HXADISQBk_s21jMU/edit?usp=sharing
 
 Communicating with Mavros
   source /opt/ros/indigo/setup.bash
